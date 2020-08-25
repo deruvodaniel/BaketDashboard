@@ -1,5 +1,7 @@
 # basketdashboard
 
+Project Using vue.js, Bootstrap, Local Storage
+
 ## Project setup
 ```
 npm install
